@@ -1,0 +1,44 @@
+﻿@model List<FornecedorModel>
+@{
+    ViewData["Title"] = "Fornecedores";
+}
+<title>Fornecedores</title>
+<div class="text-center">
+
+    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        <a class="btn btn-primary" role="button" asp-controller="Fornecedores" asp-action="Criar">Adicionar novo contato</a>
+    </div>
+
+    <h1 class="display-4">Fornecedores</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">CNPJ</th>
+                <th scope="col">Empresa</th>
+                <th scope="col">Contato</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if(Model != null && Model.Any())
+            {
+                foreach (FornecedorModel fornecedor in Model)
+                {
+                    <tr>
+                        <th scope="row">@fornecedor.id</th>
+                        <td>@fornecedor.CNPJ</td>
+                        <td>@fornecedor.Empresa</td>
+                        <td>@fornecedor.Telefone</td>
+                        <td>
+                            <div class="btn-group" role="group">
+                                <a role="button" class="btn btn-danger" asp-route-id="@fornecedor.id" asp-controller="Fornecedores" asp-action="ApagarConfirmacao">Apagar</a>
+                                <a role="button" class="btn btn-warning" asp-route-id="@fornecedor.id" asp-controller="Fornecedores" asp-action="Editar">Editar</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
