@@ -6,7 +6,7 @@
 <div class="text-center">
 
     <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-        <a class="btn btn-primary" role="button" asp-controller="Fornecedores" asp-action="Criar">Adicionar novo contato</a>
+        <a class="btn btn-primary" role="button" asp-controller="Fornecedores" asp-action="Criar">Adicionar novo Fornecedor</a>
     </div>
 
     <br />
@@ -25,16 +25,16 @@
             @TempData["MensagemErro"]
         </div>
     }
-
     <h1 class="display-4">Fornecedores</h1>
 
-    <table class="table">
+    <table id="DB_Fazenda2" class="table">
         <thead>
             <tr>
                 <th scope="col">#</th>
                 <th scope="col">CNPJ</th>
                 <th scope="col">Empresa</th>
                 <th scope="col">Contato</th>
+                <th></th>
             </tr>
         </thead>
         <tbody>

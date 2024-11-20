@@ -11,7 +11,7 @@ using Trabalho_3.Data;
 namespace Trabalho_3.Migrations
 {
     [DbContext(typeof(BancoContext))]
-    [Migration("20241111175915_CriandoTabelaFazenda")]
+    [Migration("20241120174305_CriandoTabelaFazenda")]
     partial class CriandoTabelaFazenda
     {
         /// <inheritdoc />
@@ -46,7 +46,7 @@ namespace Trabalho_3.Migrations
 
                     b.HasKey("id");
 
-                    b.ToTable("Fazenda");
+                    b.ToTable("Fazenda2");
                 });
 #pragma warning restore 612, 618
         }

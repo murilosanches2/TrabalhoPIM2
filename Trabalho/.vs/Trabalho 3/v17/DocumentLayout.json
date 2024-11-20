@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\repositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\repositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FornecedoresController.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Controllers\\FornecedoresController.cs",
-              "RelativeDocumentMoniker": "Trabalho 3\\Controllers\\FornecedoresController.cs",
-              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Controllers\\FornecedoresController.cs",
-              "RelativeToolTip": "Trabalho 3\\Controllers\\FornecedoresController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "Trabalho 3\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "Trabalho 3\\Models\\UsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T20:24:28.153Z",
+              "WhenOpened": "2024-11-20T21:30:23.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Trabalho 3\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "Trabalho 3\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:25:57.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BancoContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Data\\BancoContext.cs",
-              "RelativeDocumentMoniker": "Trabalho 3\\Data\\BancoContext.cs",
-              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Data\\BancoContext.cs",
-              "RelativeToolTip": "Trabalho 3\\Data\\BancoContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Repositorio\\IUsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Trabalho 3\\Repositorio\\IUsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Repositorio\\IUsuarioRepositorio.cs",
+              "RelativeToolTip": "Trabalho 3\\Repositorio\\IUsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T20:24:18.155Z"
+              "WhenOpened": "2024-11-20T21:25:18.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Trabalho 3\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Trabalho 3\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T21:13:41.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Trabalho 3\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Trabalho 3\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:09:28.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Trabalho 3\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Trabalho 3\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:07:39.572Z"
             }
           ]
         }

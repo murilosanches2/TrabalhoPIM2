@@ -8,5 +8,7 @@ namespace Trabalho_3.Data
         public BancoContext(DbContextOptions<BancoContext> options) : base(options){}
 
         public DbSet<FornecedorModel> Fazenda2 { get; set; }
+
+        public DbSet<UsuarioModel> Usuarios {  get; set; }
     }
 }
