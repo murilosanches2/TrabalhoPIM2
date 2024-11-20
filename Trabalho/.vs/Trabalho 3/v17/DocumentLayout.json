@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\views\\fornecedores\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\views\\fornecedores\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\repositorio\\fornecedorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\repositorio\\fornecedorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\repositorio\\ifornecedorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\repositorio\\ifornecedorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\views\\fornecedores\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\views\\fornecedores\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\views\\fornecedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\views\\fornecedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,55 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApagarConfirmacao.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Views\\Fornecedores\\ApagarConfirmacao.cshtml",
-              "RelativeDocumentMoniker": "Trabalho 3\\Views\\Fornecedores\\ApagarConfirmacao.cshtml",
-              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Views\\Fornecedores\\ApagarConfirmacao.cshtml",
-              "RelativeToolTip": "Trabalho 3\\Views\\Fornecedores\\ApagarConfirmacao.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-15T18:33:59.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "FornecedoresController.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Controllers\\FornecedoresController.cs",
               "RelativeDocumentMoniker": "Trabalho 3\\Controllers\\FornecedoresController.cs",
               "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Controllers\\FornecedoresController.cs",
               "RelativeToolTip": "Trabalho 3\\Controllers\\FornecedoresController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwCwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T18:08:04.733Z"
+              "WhenOpened": "2024-11-18T20:24:28.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FornecedorRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Repositorio\\FornecedorRepositorio.cs",
-              "RelativeDocumentMoniker": "Trabalho 3\\Repositorio\\FornecedorRepositorio.cs",
-              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Repositorio\\FornecedorRepositorio.cs",
-              "RelativeToolTip": "Trabalho 3\\Repositorio\\FornecedorRepositorio.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAUwDMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:12:37.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IFornecedorRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Repositorio\\IFornecedorRepositorio.cs",
-              "RelativeDocumentMoniker": "Trabalho 3\\Repositorio\\IFornecedorRepositorio.cs",
-              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Repositorio\\IFornecedorRepositorio.cs",
-              "RelativeToolTip": "Trabalho 3\\Repositorio\\IFornecedorRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:13:09.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "BancoContext.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Data\\BancoContext.cs",
               "RelativeDocumentMoniker": "Trabalho 3\\Data\\BancoContext.cs",
@@ -99,31 +43,7 @@
               "RelativeToolTip": "Trabalho 3\\Data\\BancoContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:15:50.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Views\\Fornecedores\\Index.cshtml",
-              "RelativeDocumentMoniker": "Trabalho 3\\Views\\Fornecedores\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Views\\Fornecedores\\Index.cshtml",
-              "RelativeToolTip": "Trabalho 3\\Views\\Fornecedores\\Index.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCMAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T17:28:39.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Criar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Views\\Fornecedores\\Criar.cshtml",
-              "RelativeDocumentMoniker": "Trabalho 3\\Views\\Fornecedores\\Criar.cshtml",
-              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Views\\Fornecedores\\Criar.cshtml",
-              "RelativeToolTip": "Trabalho 3\\Views\\Fornecedores\\Criar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-15T17:57:46.989Z"
+              "WhenOpened": "2024-11-18T20:24:18.155Z"
             }
           ]
         }

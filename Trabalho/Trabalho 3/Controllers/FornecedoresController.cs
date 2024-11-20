@@ -42,23 +42,66 @@ namespace Trabalho_3.Controllers
 
         public IActionResult Apagar(int id)
         {
-            _FornecedorRepositorio.Apagar(id);
-            return RedirectToAction("Index");
+            try
+            {
+                bool apagar = _FornecedorRepositorio.Apagar(id);
+                if (apagar)
+                {
+                    TempData["MensagemSucesso"] = "Fornecedor deletado com sucesso";
+                }
+                else
+                {
+                    TempData["MensagemErro"] = "Erro ao deletar o fornecedor!";
+                }
+
+                return RedirectToAction("Index");
+            }
+            catch (Exception ex)
+            {
+                TempData["MensagemErro"] = $"Erro ao deletar o fornecedor! Erro: {ex.Message}";
+                return RedirectToAction("Index");
+            }
+            
         }
 
         [HttpPost]
         public IActionResult Criar(FornecedorModel fornecedor)
         {
-            _FornecedorRepositorio.Adicionar(fornecedor);
-            return RedirectToAction("Index");
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    _FornecedorRepositorio.Adicionar(fornecedor);
+                    TempData["MensagemSucesso"] = "Fornecedor cadastrado com sucesso!";
+                    return RedirectToAction("Index");
+                }
+
+                return View(fornecedor);
+            }
+            catch (System.Exception erro) 
+            {
+                TempData["MensagemErro"] = $"Falha ao cadastrar o fornecedor! Erro: {erro.Message}";
+                return RedirectToAction("Index");
+            }
         }
 
         [HttpPost]
         public IActionResult Alterar(FornecedorModel fornecedor)
         {
-            _FornecedorRepositorio.Atualizar(fornecedor);
-            return RedirectToAction("Index");
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    _FornecedorRepositorio.Atualizar(fornecedor);
+                    TempData["MensagemSucesso"] = "Fornecedor alterado com sucesso!";
+                    return RedirectToAction("Index");
+                }
+                return View("Editar", fornecedor);
+            }
+            catch (System.Exception erro) {
+                TempData["MensagemErro"] = $"Falha ao alterar o fornecedor! Erro: {erro.Message}";
+                return RedirectToAction("Index");
+            }
         }
-
     }
 }
