@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Trabalho_3.Helper;
 using Trabalho_3.Models;
 using Trabalho_3.Repositorio;
 
@@ -7,14 +8,24 @@ namespace Trabalho_3.Controllers
     public class LoginController : Controller
     {
         private readonly IUsuarioRepositorio _usuarioRepositorio;
-        public LoginController(IUsuarioRepositorio usuarioRepositorio) 
+        private readonly ISessao _sessao;
+        public LoginController(IUsuarioRepositorio usuarioRepositorio, ISessao sessao) 
         {
             _usuarioRepositorio = usuarioRepositorio;
+            _sessao = sessao;
         }
 
         public IActionResult Index()
         {
+            if (_sessao.BuscarSessaoDoUsuario() != null) return RedirectToAction("Index","Home");
             return View();
+        }
+
+        public IActionResult Sair()
+        {
+            _sessao.RemoverSessaoUsuario();
+
+            return RedirectToAction("Index", "Login");
         }
 
         [HttpPost]
@@ -30,6 +41,7 @@ namespace Trabalho_3.Controllers
                     {
                         if (usuario.SenhaValida(loginmodel.Senha))
                         {
+                            _sessao.CriarSessaoDoUsuario(usuario);
                             return RedirectToAction("Index", "Home");
                         }
 

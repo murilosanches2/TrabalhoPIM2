@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Trabalho_3.Filters;
 using Trabalho_3.Models;
 using Trabalho_3.Repositorio;
 
 namespace Trabalho_3.Controllers
 {
+    [PaginaRestritaSomenteAdmin]
     public class UsuarioController : Controller
     {
         private readonly IUsuarioRepositorio _usuarioRepositorio;

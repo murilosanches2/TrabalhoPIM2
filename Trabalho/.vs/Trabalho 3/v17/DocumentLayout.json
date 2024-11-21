@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\",
+  "WorkspaceRootPath": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|e:\\meupc\\trabalhopim2\\trabalho\\trabalho 3\\views\\restrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\views\\restrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|e:\\meupc\\trabalhopim2\\trabalho\\trabalho 3\\filters\\paginarestritasomenteadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\filters\\paginarestritasomenteadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|e:\\meupc\\trabalhopim2\\trabalho\\trabalho 3\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\repositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\repositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|c:\\users\\ryzen5\\source\\repos\\trabalho 3\\trabalho 3\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|e:\\meupc\\trabalhopim2\\trabalho\\trabalho 3\\controllers\\restritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\controllers\\restritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioModel.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Models\\UsuarioModel.cs",
-              "RelativeDocumentMoniker": "Trabalho 3\\Models\\UsuarioModel.cs",
-              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Models\\UsuarioModel.cs",
-              "RelativeToolTip": "Trabalho 3\\Models\\UsuarioModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T21:30:23.232Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuarioRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Repositorio\\UsuarioRepositorio.cs",
-              "RelativeDocumentMoniker": "Trabalho 3\\Repositorio\\UsuarioRepositorio.cs",
-              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Repositorio\\UsuarioRepositorio.cs",
-              "RelativeToolTip": "Trabalho 3\\Repositorio\\UsuarioRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T21:25:57.666Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Views\\Restrito\\Index.cshtml",
+              "RelativeDocumentMoniker": "Trabalho 3\\Views\\Restrito\\Index.cshtml",
+              "ToolTip": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Views\\Restrito\\Index.cshtml",
+              "RelativeToolTip": "Trabalho 3\\Views\\Restrito\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T19:41:39.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUsuarioRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Repositorio\\IUsuarioRepositorio.cs",
-              "RelativeDocumentMoniker": "Trabalho 3\\Repositorio\\IUsuarioRepositorio.cs",
-              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Repositorio\\IUsuarioRepositorio.cs",
-              "RelativeToolTip": "Trabalho 3\\Repositorio\\IUsuarioRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Trabalho 3\\Controllers\\UsuarioController.cs",
+              "ToolTip": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Trabalho 3\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T21:25:18.243Z"
+              "WhenOpened": "2024-11-21T19:39:55.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "Trabalho 3\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "Trabalho 3\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T21:13:41.106Z"
+              "DocumentIndex": 3,
+              "Title": "RestritoController.cs",
+              "DocumentMoniker": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Controllers\\RestritoController.cs",
+              "RelativeDocumentMoniker": "Trabalho 3\\Controllers\\RestritoController.cs",
+              "ToolTip": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Controllers\\RestritoController.cs",
+              "RelativeToolTip": "Trabalho 3\\Controllers\\RestritoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:36:21.683Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Trabalho 3\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Trabalho 3\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABPAAAAAAAAAA==",
+              "Title": "PaginaRestritaSomenteAdmin.cs",
+              "DocumentMoniker": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Filters\\PaginaRestritaSomenteAdmin.cs",
+              "RelativeDocumentMoniker": "Trabalho 3\\Filters\\PaginaRestritaSomenteAdmin.cs",
+              "ToolTip": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Filters\\PaginaRestritaSomenteAdmin.cs",
+              "RelativeToolTip": "Trabalho 3\\Filters\\PaginaRestritaSomenteAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T21:09:28.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "Trabalho 3\\Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\Ryzen5\\source\\repos\\Trabalho 3\\Trabalho 3\\Models\\LoginModel.cs",
-              "RelativeToolTip": "Trabalho 3\\Models\\LoginModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T21:07:39.572Z"
+              "WhenOpened": "2024-11-21T19:33:38.071Z"
             }
           ]
         }

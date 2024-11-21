@@ -1,9 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Trabalho_3.Filters;
 using Trabalho_3.Models;
 
 namespace Trabalho_3.Controllers
 {
+    [PaginaParaUsuarioLogado]
     public class HomeController : Controller
     {
 

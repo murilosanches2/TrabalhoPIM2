@@ -9,79 +9,87 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Trabalho_3
 build_property.RootNamespace = Trabalho_3
-build_property.ProjectDir = C:\Users\Ryzen5\source\repos\Trabalho 3\Trabalho 3\
+build_property.ProjectDir = E:\MeuPC\TrabalhoPIM2\Trabalho\Trabalho 3\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\Ryzen5\source\repos\Trabalho 3\Trabalho 3
+build_property.MSBuildProjectDirectory = E:\MeuPC\TrabalhoPIM2\Trabalho\Trabalho 3
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/Fornecedores/ApagarConfirmacao.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Fornecedores/ApagarConfirmacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXEFwYWdhckNvbmZpcm1hY2FvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/Fornecedores/Criar.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Fornecedores/Criar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXENyaWFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/Fornecedores/Editar.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Fornecedores/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXEVkaXRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/Fornecedores/Index.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Fornecedores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/Home/Index.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/Home/Privacy.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/Login/Index.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/Shared/Error.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Restrito/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdHJpdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Shared/Components/Menu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/Usuario/ApagarConfirmacao.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Usuario/ApagarConfirmacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xBcGFnYXJDb25maXJtYWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/Usuario/Criar.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Usuario/Criar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmlhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/Usuario/Editar.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Usuario/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/Usuario/Index.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Usuario/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/_ViewImports.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/_ViewStart.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/Shared/_Layout.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-uu2wd3370h
 
-[C:/Users/Ryzen5/source/repos/Trabalho 3/Trabalho 3/Views/Shared/_LayoutDeslogado.cshtml]
+[E:/MeuPC/TrabalhoPIM2/Trabalho/Trabalho 3/Views/Shared/_LayoutDeslogado.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREZXNsb2dhZG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6xp6bskafq

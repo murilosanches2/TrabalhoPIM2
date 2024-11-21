@@ -3,11 +3,13 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Trabalho_3.Filters;
 using Trabalho_3.Models;
 using Trabalho_3.Repositorio;
 
 namespace Trabalho_3.Controllers
 {
+    [PaginaParaUsuarioLogado]
     public class FornecedoresController : Controller
     {
         private readonly IFornecedorRepositorio _FornecedorRepositorio;
