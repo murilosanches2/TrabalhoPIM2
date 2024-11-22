@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|e:\\meupc\\trabalhopim2\\trabalho\\trabalho 3\\views\\restrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\views\\restrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|e:\\meupc\\trabalhopim2\\trabalho\\trabalho 3\\views\\produto\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\views\\produto\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|e:\\meupc\\trabalhopim2\\trabalho\\trabalho 3\\filters\\paginarestritasomenteadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\filters\\paginarestritasomenteadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|e:\\meupc\\trabalhopim2\\trabalho\\trabalho 3\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|e:\\meupc\\trabalhopim2\\trabalho\\trabalho 3\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|e:\\meupc\\trabalhopim2\\trabalho\\trabalho 3\\views\\fornecedores\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\views\\fornecedores\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|e:\\meupc\\trabalhopim2\\trabalho\\trabalho 3\\controllers\\restritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\controllers\\restritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|e:\\meupc\\trabalhopim2\\trabalho\\trabalho 3\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|e:\\meupc\\trabalhopim2\\trabalho\\trabalho 3\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FCCD5-8969-4BB4-9BE6-22F455FABC63}|Trabalho 3\\Trabalho 3.csproj|solutionrelative:trabalho 3\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +35,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Views\\Restrito\\Index.cshtml",
-              "RelativeDocumentMoniker": "Trabalho 3\\Views\\Restrito\\Index.cshtml",
-              "ToolTip": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Views\\Restrito\\Index.cshtml",
-              "RelativeToolTip": "Trabalho 3\\Views\\Restrito\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Views\\Produto\\Criar.cshtml",
+              "RelativeDocumentMoniker": "Trabalho 3\\Views\\Produto\\Criar.cshtml",
+              "ToolTip": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Views\\Produto\\Criar.cshtml",
+              "RelativeToolTip": "Trabalho 3\\Views\\Produto\\Criar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T19:41:39.592Z",
+              "WhenOpened": "2024-11-22T22:32:21.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Views\\Produto\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Trabalho 3\\Views\\Produto\\Editar.cshtml",
+              "ToolTip": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Views\\Produto\\Editar.cshtml",
+              "RelativeToolTip": "Trabalho 3\\Views\\Produto\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T22:29:38.159Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Trabalho 3\\Controllers\\UsuarioController.cs",
-              "ToolTip": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Trabalho 3\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Views\\Fornecedores\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Trabalho 3\\Views\\Fornecedores\\Editar.cshtml",
+              "ToolTip": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Views\\Fornecedores\\Editar.cshtml",
+              "RelativeToolTip": "Trabalho 3\\Views\\Fornecedores\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T22:29:36.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FornecedoresController.cs",
+              "DocumentMoniker": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Controllers\\FornecedoresController.cs",
+              "RelativeDocumentMoniker": "Trabalho 3\\Controllers\\FornecedoresController.cs",
+              "ToolTip": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Controllers\\FornecedoresController.cs",
+              "RelativeToolTip": "Trabalho 3\\Controllers\\FornecedoresController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwGwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T19:39:55.918Z"
+              "WhenOpened": "2024-11-22T22:27:10.653Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RestritoController.cs",
-              "DocumentMoniker": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Controllers\\RestritoController.cs",
-              "RelativeDocumentMoniker": "Trabalho 3\\Controllers\\RestritoController.cs",
-              "ToolTip": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Controllers\\RestritoController.cs",
-              "RelativeToolTip": "Trabalho 3\\Controllers\\RestritoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "Trabalho 3\\Controllers\\ProdutoController.cs",
+              "ToolTip": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "Trabalho 3\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwGAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T19:36:21.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PaginaRestritaSomenteAdmin.cs",
-              "DocumentMoniker": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Filters\\PaginaRestritaSomenteAdmin.cs",
-              "RelativeDocumentMoniker": "Trabalho 3\\Filters\\PaginaRestritaSomenteAdmin.cs",
-              "ToolTip": "E:\\MeuPC\\TrabalhoPIM2\\Trabalho\\Trabalho 3\\Filters\\PaginaRestritaSomenteAdmin.cs",
-              "RelativeToolTip": "Trabalho 3\\Filters\\PaginaRestritaSomenteAdmin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T19:33:38.071Z"
+              "WhenOpened": "2024-11-22T21:59:18.068Z"
             }
           ]
         }

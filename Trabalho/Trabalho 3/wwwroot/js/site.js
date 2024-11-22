@@ -6,6 +6,7 @@
 $(document).ready(function () {
     getDatatable('#DB_Fazenda2');
     getDatatable('#DB_Usuario');
+    getDatatable('#DB_Produto')
 })
     
 

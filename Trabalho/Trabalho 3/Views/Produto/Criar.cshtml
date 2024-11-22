@@ -1,0 +1,46 @@
+﻿@using Trabalho_3.Enums
+@model ProdutoModel
+@{
+    ViewData["Title"] = "Produtos";
+}
+<title>Registro de Produtos</title>
+<div class="text-center">
+
+    <h1 class="display-4">Registrar Produtos</h1>
+
+</div>
+
+<form asp-controller="Produto" asp-action="Criar" method="post">
+
+    <div class="form-group">
+        <label for="Produto" class="form-label">Produto</label>
+        <input type="text" asp-for="Produto" class="form-control" placeholder="Digite aqui o produto" />
+        @Html.ValidationMessageFor(X => X.Produto)
+    </div>
+
+    <div class="form-group">
+        <label for="Quantidade" class="form-label">Quantidade</label>
+        <input type="text" asp-for="Quantidade" class="form-control" placeholder="Digite aqui a quantidade">
+        @Html.ValidationMessageFor(X => X.Quantidade)
+    </div>
+
+    <div class="form-group">
+        <label for="Contato" class="form-label">Tipo</label>
+        <select asp-for="Tipo" class="form-control">
+            <option value="">Selecione</option>
+            <option value="@TipoEnum.Vendido">Vendido</option>
+            <option value="@TipoEnum.Estocado">Estocado</option>
+        </select>
+        @Html.ValidationMessageFor(X => X.Tipo)
+    </div>
+
+    <div class="form-group">
+            <label for="Total" class="form-label">Total</label>
+            <input type="text" asp-for="Total" class="form-control" placeholder="Digite aqui o total no estoque">
+            @Html.ValidationMessageFor(X => X.Total)
+    </div>
+
+    <br />
+    <button type="submit" class="btn btn-primary">Confirmar</button>
+    <a class="btn btn-secondary btn-block" asp-controller="Produto" asp-action="Index" role="button">Voltar</a>
+</form>

@@ -15,7 +15,7 @@ namespace Trabalho_3.Models
         public string Email { get; set; }
         [Required(ErrorMessage = "Informe o Perfil")]
         public PerfilEnum? Perfil { get; set; }
-        [Required(ErrorMessage = "Insira o E-mail")]
+        [Required(ErrorMessage = "Insira a Senha")]
         public string Senha {  get; set; }
         public DateTime DataCadastro {  get; set; }
         public DateTime? DataAtualizacao { get; set; }

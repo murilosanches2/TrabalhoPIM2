@@ -6,7 +6,7 @@ namespace Trabalho_3.Models
     {
         [Required(ErrorMessage = "Insira o login")]
         public string Login { get; set; }
-        [Required(ErrorMessage = "Insira a aenha")]
+        [Required(ErrorMessage = "Insira a senha")]
         public string Senha { get; set; }
     }
 }
